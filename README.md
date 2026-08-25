@@ -56,23 +56,32 @@ Student safety is a major concern, especially during late-night travel within co
 
 ## 🔗 Live Links
 
+- **FlutterFlow Prototype:** [app.flutterflow.io/share/safewalk-7isoxg](https://app.flutterflow.io/share/safewalk-7isoxg)
 - **Base44 Deployed App:** [safe-walk-9919b4d1.base44.app/PhoneEntry](https://safe-walk-9919b4d1.base44.app/PhoneEntry)
 
 ---
 
 ## 📸 Screenshots
 
-> Add your screenshots to a `/screenshots` folder in this repo and update the table below with matching filenames.
-
-| Screen | Description |
+| Login Screen | Start Walk Screen |
 |---|---|
-| `login.png` | Welcome / Sign-in screen with Google and email login |
-| `start-walk.png` | Home screen — location enabled, "Start Your Walk" |
-| `sos-active.png` | SafeWalk Active screen with live GPS coordinates and SOS hold button |
-| `location-permission.png` | Location permission request dialog |
-| `alert-sent.png` | Confirmation screen after an alert is sent, with live location sharing |
-| `sos-confirmation.png` | Detailed SOS alert confirmation listing every contact notified |
-| `app-icon-home-screen.png` | SafeWalk app icon installed on a phone's home screen |
+| ![Login](screenshots/login.png) | ![Start Walk](screenshots/start-walk.png) |
+| Welcome / Sign-in screen with Google and email login | Home screen — location enabled, "Start Your Walk" |
+
+| Location Permission | SOS Active |
+|---|---|
+| ![Location Permission](screenshots/location-permission.png) | ![SOS Active](screenshots/sos-active.png) |
+| Location permission request dialog | SafeWalk Active screen with live GPS coordinates and SOS hold button |
+
+| Alert Sent | SOS Confirmation |
+|---|---|
+| ![Alert Sent](screenshots/alert-sent.png) | ![SOS Confirmation](screenshots/sos-confirmation.png) |
+| Confirmation screen after an alert is sent, with live location sharing | Detailed SOS alert confirmation listing every contact notified |
+
+| App Icon on Home Screen |
+|---|
+| ![App Icon](screenshots/app-icon-home-screen.png) |
+| SafeWalk app icon installed on a phone's home screen |
 
 ---
 
