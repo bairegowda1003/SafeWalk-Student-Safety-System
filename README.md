@@ -56,7 +56,6 @@ Student safety is a major concern, especially during late-night travel within co
 
 ## 🔗 Live Links
 
-- **FlutterFlow Prototype:** [app.flutterflow.io/share/safewalk-7isoxg](https://app.flutterflow.io/share/safewalk-7isoxg)
 - **Base44 Deployed App:** [safe-walk-9919b4d1.base44.app/PhoneEntry](https://safe-walk-9919b4d1.base44.app/PhoneEntry)
 
 ---
@@ -65,22 +64,22 @@ Student safety is a major concern, especially during late-night travel within co
 
 | Login Screen | Start Walk Screen |
 |---|---|
-| ![Login](login.png) | ![Start Walk](SafeWalk-Student-Safety-System/start-walk.png) |
+| ![Login](login.png) | ![Start Walk](start-walk.png) |
 | Welcome / Sign-in screen with Google and email login | Home screen — location enabled, "Start Your Walk" |
 
 | Location Permission | SOS Active |
 |---|---|
-| ![Location Permission](screenshots/location-permission.png) | ![SOS Active](screenshots/sos-active.png) |
+| ![Location Permission](location-permission.png) | ![SOS Active](sos-active.png) |
 | Location permission request dialog | SafeWalk Active screen with live GPS coordinates and SOS hold button |
 
 | Alert Sent | SOS Confirmation |
 |---|---|
-| ![Alert Sent](screenshots/alert-sent.png) | ![SOS Confirmation](screenshots/sos-confirmation.png) |
+| ![Alert Sent](alert-sent.png) | ![SOS Confirmation](sos-confirmation.png) |
 | Confirmation screen after an alert is sent, with live location sharing | Detailed SOS alert confirmation listing every contact notified |
 
 | App Icon on Home Screen |
 |---|
-| ![App Icon](screenshots/app-icon-home-screen.png) |
+| ![App Icon](app-icon-home-screen.png) |
 | SafeWalk app icon installed on a phone's home screen |
 
 ---
