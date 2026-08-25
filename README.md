@@ -65,7 +65,7 @@ Student safety is a major concern, especially during late-night travel within co
 
 | Login Screen | Start Walk Screen |
 |---|---|
-| ![Login](screenshots/login.png) | ![Start Walk](screenshots/start-walk.png) |
+| ![Login](SafeWalk-Student-Safety-System/login.png) | ![Start Walk](screenshots/start-walk.png) |
 | Welcome / Sign-in screen with Google and email login | Home screen — location enabled, "Start Your Walk" |
 
 | Location Permission | SOS Active |
