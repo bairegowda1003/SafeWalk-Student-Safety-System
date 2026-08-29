@@ -1,4 +1,4 @@
-# 🛡️ SafeWalk — Student Safety Web Application.
+# 🛡️ SafeWalk — Student Safety Web Application
 
 > A student safety solution built during the **Innovation Design Thinking** course (InUnity), 1st Semester MCA — completed **13 December 2025**.
 
