@@ -8,7 +8,7 @@
 
 ---
 
-## 📌 About This Repository
+## 📌 About This Repository.
 
 This repository documents the **SafeWalk** project — a student safety web application designed to help students travel safely at night on campus. SafeWalk was built using **low-code/no-code platforms** (FlutterFlow and Base44) as part of a Design Thinking approach, so this repo contains **project documentation, screenshots, and design artifacts** rather than raw source code.
 
